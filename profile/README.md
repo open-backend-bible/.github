@@ -17,4 +17,4 @@
 
 
 ## 资源推荐
-* [recommend-resources](https://github.com/geek-pie/recommend-resources)整理了非常值得学习的一些资料以及github，官网的地址（部分资料有可以直接下载的网盘链接，如果涉及到侵权，请联系删除）                                                             
+* [recommend-resources](https://github.com/geek-pie/recommend-resources)整理了非常值得学习的一些资料以及github开源，官网的地址（部分资料有可以直接下载的网盘链接，如果涉及到侵权，请联系删除），欢迎小伙伴们持续贡献！                                                             
