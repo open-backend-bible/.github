@@ -1,4 +1,4 @@
-# 👋 Welcome to GeekPie!
+# 👋 Welcome to Sensetime IRDC!
 
 <!--
 
@@ -10,8 +10,6 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-
-# 💻让小册展示到GeekPie网站
 
 标准的目录如下所示：
 ```tree
@@ -39,9 +37,9 @@ your booklet
 
 # 版权声明
 
-* 所有原创文章(未进行特殊标识的均属于原创) 的著作权属于 **GcsSloop**。
+* 所有原创文章(未进行特殊标识的均属于原创) 的著作权属于 **Sensetime 海外研发中心**。
 * 所有转载文章(标题注明`[转]`的所有文章) 的著作权属于原作者。
-* 所有译文文章(标题注明`[译]`的所有文章) 的原文著作权属于原作者，译文著作权属于 **GcsSloop**。
+* 所有译文文章(标题注明`[译]`的所有文章) 的原文著作权属于原作者，译文著作权属于 **Sensetime 海外研发中心**。
 
 #### 转载注意事项
 
@@ -50,6 +48,6 @@ your booklet
 你可以在非商业的前提下免费转载，但同时你必须：
 
 * 保持文章原文，不作修改。
-* 明确署名，即至少注明 `作者：GcsSloop` 字样以及文章的原始链接，且不得使用 `rel="nofollow"` 标记。
+* 明确署名，即至少注明 `作者：Sensetime 海外研发中心` 字样以及文章的原始链接，且不得使用 `rel="nofollow"` 标记。
 * 商业用途请点击最下面图片联系本人。
 * 微信公众号转载一律不授权 `原创` 标志。
